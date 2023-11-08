@@ -22,5 +22,5 @@ pip install -r requirements.txt
 ```bash
 scrapy startproject amazon_scraper_alert_system
 cd amazon_scraper_alert_system
-scrapy genspider amazon-bot amazon.com
+scrapy genspider amazon-bot example.com
 ```
