@@ -1,0 +1,1 @@
+scrapy crawl amazon-bot -o ./Data/data.json
